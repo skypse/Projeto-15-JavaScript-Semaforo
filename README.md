@@ -1,6 +1,5 @@
 # 🚦 Semáforo
-
-
+https://github.com/skypse/Projeto-15-JavaScript-Semaforo/assets/97822775/0d1a5148-c05a-4276-9071-3e639e4218c1
 
 
 Um simples cronômetro construído com HTML, CSS e JavaScript. Este projeto permite iniciar, pausar e reiniciar o cronômetro com um único clique.

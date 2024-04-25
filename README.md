@@ -15,7 +15,6 @@ Um simples cronômetro construído com HTML, CSS e JavaScript. Este projeto perm
 - HTML5: Estruturação do conteúdo da página.
 - CSS3: Estilização e layout do semáforo e botões.
 - JavaScript (ES6): Lógica de controle do semáforo e interação com o usuário.
-- 
 ## 🔗 Acesso
 
 [Acesse o projeto clicando aqui](https://skypse.github.io/Projeto-15-JavaScript-Semaforo/)
